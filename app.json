@@ -1,9 +1,9 @@
 {
-    "name": "ɴɪsᴛʜᴀ ᴍᴜsɪᴄ",
-    "logo": "https://te.legra.ph/file/086426b04c04a3c16f558.jpg",
-    "description": "ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ ᴘʀᴇᴍɪᴜᴍ ᴍᴜsɪᴄ ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ sᴜᴍɪᴛ ʏᴀᴅᴀᴠ.",
+    "name": "tXf ᴍᴜsɪᴄ",
+    "logo": "https://telegra.ph/file/e901a3100de2b2817603e.jpg",
+    "description": "MUSIC BOT DEV BY @V3RSIONX BOT OWNER @team_x_fire.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/Sumit0045/NisthaMusic",
+    "repository": "https://github.com/v3rsionx/teamxfiremusic",
     "stack": "container",
     "env": {
         "BOT_USERNAME": {
